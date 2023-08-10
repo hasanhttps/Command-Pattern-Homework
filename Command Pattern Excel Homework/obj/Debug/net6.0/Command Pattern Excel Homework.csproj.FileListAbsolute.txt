@@ -1,0 +1,25 @@
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\Command Pattern Excel Homework.exe
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\Command Pattern Excel Homework.deps.json
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\Command Pattern Excel Homework.runtimeconfig.json
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\Command Pattern Excel Homework.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\Command Pattern Excel Homework.pdb
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\Irony.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\XLParser.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\Command Pattern Excel Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\Command Pattern Excel Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\Command Pattern Excel Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\Command Pattern Excel Homework.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\Command Pattern Excel Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\Command Pattern Excel Homework.csproj.CopyComplete
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\Command Pattern Excel Homework.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\refint\Command Pattern Excel Homework.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\Command Pattern Excel Homework.pdb
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\Command Pattern Excel Homework.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\obj\Debug\net6.0\ref\Command Pattern Excel Homework.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\hasan\WPF Projects\Command Pattern Excel Homework\Command Pattern Excel Homework\bin\Debug\net6.0\itextsharp.dll
