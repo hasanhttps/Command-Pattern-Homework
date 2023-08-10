@@ -79,7 +79,6 @@ public class PdfFile<T> {
         MemoryStream memoryStream = new MemoryStream();
         PdfWriter writer = PdfWriter.GetInstance(document, memoryStream);
         document.Open();
-
         // Create a list
         List list = new List(List.UNORDERED);
         foreach(var item in _list) {
@@ -197,11 +196,9 @@ class Program {
         ).ToList();
 
         ExcelFile<Product> receiver = new(products);
-        PdfFile<Product> receiver2 = new(products);
 
         FileCreateInvoker invoker = new();
-        //invoker.AddCommand(new CreateExcelTableActionCommand<Product>(receiver));
-        invoker.AddCommand(new CreatePdfTableActionCommand<Product>(receiver2));
+        invoker.AddCommand(new CreateExcelTableActionCommand<Product>(receiver));
         invoker.CreateFiles();
     }
 }
